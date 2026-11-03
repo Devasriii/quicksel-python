@@ -1,0 +1,13 @@
+# Generated files (re-create them with python -m python_impl.workload.generate)
+output/
+
+# Python cache / test cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
